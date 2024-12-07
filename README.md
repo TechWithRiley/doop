@@ -1,5 +1,5 @@
 # Crispy Doom
-[![Crispy Doom Icon](https://github.com/fabiangreffrath/crispy-doom/blob/master/data/doom.png)](https://github.com/fabiangreffrath/crispy-doom)
+[![Crispy Doom Icon](https://github.com/TechWithRiley/doop/blob/master/data/doop.png)](https://github.com/TechWithRiley/doop)
 
 [![Top Language](https://img.shields.io/github/languages/top/fabiangreffrath/crispy-doom.svg)](https://github.com/fabiangreffrath/crispy-doom)
 [![Code Size](https://img.shields.io/github/languages/code-size/fabiangreffrath/crispy-doom.svg)](https://github.com/fabiangreffrath/crispy-doom)
