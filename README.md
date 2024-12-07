@@ -1,27 +1,31 @@
-# Crispy Doom
-[![Crispy Doom Icon](https://github.com/TechWithRiley/doop/blob/master/data/doop.png)](https://github.com/TechWithRiley/doop)
+# DOOP
+[![DOOP Icon](https://github.com/TechWithRiley/doop/blob/master/data/doop.png)](https://github.com/TechWithRiley/doop)
 
-[![Top Language](https://img.shields.io/github/languages/top/fabiangreffrath/crispy-doom.svg)](https://github.com/fabiangreffrath/crispy-doom)
-[![Code Size](https://img.shields.io/github/languages/code-size/fabiangreffrath/crispy-doom.svg)](https://github.com/fabiangreffrath/crispy-doom)
-[![License](https://img.shields.io/github/license/fabiangreffrath/crispy-doom.svg?logo=gnu)](https://github.com/fabiangreffrath/crispy-doom/blob/master/COPYING.md)
-[![Release](https://img.shields.io/github/release/fabiangreffrath/crispy-doom.svg)](https://github.com/fabiangreffrath/crispy-doom/releases)
-[![Release Date](https://img.shields.io/github/release-date/fabiangreffrath/crispy-doom.svg)](https://github.com/fabiangreffrath/crispy-doom/releases)
-[![Downloads](https://img.shields.io/github/downloads/fabiangreffrath/crispy-doom/latest/total.svg)](https://github.com/fabiangreffrath/crispy-doom/releases)
-[![Commits](https://img.shields.io/github/commits-since/fabiangreffrath/crispy-doom/latest.svg)](https://github.com/fabiangreffrath/crispy-doom/commits/master)
-[![Last Commit](https://img.shields.io/github/last-commit/fabiangreffrath/crispy-doom.svg)](https://github.com/fabiangreffrath/crispy-doom/commits/master)
-[![Build Status](https://github.com/fabiangreffrath/crispy-doom/actions/workflows/main.yml/badge.svg)](https://github.com/fabiangreffrath/crispy-doom/actions/workflows/main.yml)
+~~[![Top Language](https://img.shields.io/github/languages/top/fabiangreffrath/crispy-doom.svg)](https://github.com/fabiangreffrath/crispy-doom)~~
+~~[![Code Size](https://img.shields.io/github/languages/code-size/fabiangreffrath/crispy-doom.svg)](https://github.com/fabiangreffrath/crispy-doom)~~
+~~[![License](https://img.shields.io/github/license/fabiangreffrath/crispy-doom.svg?logo=gnu)](https://github.com/fabiangreffrath/crispy-doom/blob/master/COPYING.md)~~
+~~[![Release](https://img.shields.io/github/release/fabiangreffrath/crispy-doom.svg)](https://github.com/fabiangreffrath/crispy-doom/releases)~~
+~~[![Release Date](https://img.shields.io/github/release-date/fabiangreffrath/crispy-doom.svg)](https://github.com/fabiangreffrath/crispy-doom/releases)~~
+~~[![Downloads](https://img.shields.io/github/downloads/fabiangreffrath/crispy-doom/latest/total.svg)](https://github.com/fabiangreffrath/crispy-doom/releases)~~
+~~[![Commits](https://img.shields.io/github/commits-since/fabiangreffrath/crispy-doom/latest.svg)](https://github.com/fabiangreffrath/crispy-doom/commits/master)~~
+~~[![Last Commit](https://img.shields.io/github/last-commit/fabiangreffrath/crispy-doom.svg)](https://github.com/fabiangreffrath/crispy-doom/commits/master)~~
+~~[![Build Status](https://github.com/fabiangreffrath/crispy-doom/actions/workflows/main.yml/badge.svg)](https://github.com/fabiangreffrath/crispy-doom/actions/workflows/main.yml)~~
 
-Crispy Doom is a limit-removing enhanced-resolution Doom source port based on [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom).
+# I WANT TO MAKE ONE THING CLEAR!
+# DOOP IS VERY HEAVILY LEANIENT ON CRISPY/CHOCOLATE DOOM!
+# THEY HAVE DONE A WAY BETTER JOB THAN I HAVE, PLEASE GO CHECK OUT THEIR PROJECTS!
+
+DOOP is a limit-removing enhanced-resolution Doom source port based on [Chocolate/Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom).
 
 Its name means that its internal 640x400 resolution looks "crisp" and is also a [slight reference](http://www.mathsisfun.com/recipie.html) to its origin.
 
 ## Synopsis
 
-Crispy Doom is a friendly fork of [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) that provides a higher display resolution, removes the [static limits](https://doomwiki.org/wiki/Static_limits) of the Doom engine and offers further optional visual, tactical and physical enhancements while remaining entirely config file, savegame, netplay and demo compatible with the original.
+DOOP is a friendly fork of [Chocolate/Crispy Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom) that provides a higher display resolution, removes the [static limits](https://doomwiki.org/wiki/Static_limits) of the Doom engine and offers further optional visual, tactical and physical enhancements while remaining entirely config file, savegame, netplay and demo compatible with the original.
 
 ## Objectives and features
 
-Crispy Doom is a source port that aims to provide a faithful Doom gaming experience while also featuring some user-requested improvements and enhancements. It is forked off of Chocolate Doom to take advantage of its free and open-source code base, portability, accuracy and compatibility with Vanilla Doom.
+DOOP is a source port that aims to provide a faithful DOOM gaming experience while also featuring some user-requested improvements and enhancements. It is forked off of Chocolate/Crispy Doom to take advantage of its free and open-source code base, portability, accuracy and compatibility with Vanilla DOOM.
 
 Its core features are:
 
@@ -35,10 +39,10 @@ Its core features are:
 
 Furthermore, the following optional user-visible and audible features are available:
 
- * Jumping.
- * Free vertical looking, including mouse look and vertical aiming.
+ * ~~Jumping.~~
+ * ~~Free vertical looking, including mouse look and vertical aiming.~~
  * Aiming support by a crosshair that may get directly rendered into the game world.
- * A new minimal Crispy HUD, displaying only the status bar numbers.
+ * A new minimal DOOP/Crispy HUD, displaying only the status bar numbers.
  * Clean Screenshot feature, enabling to take screenshots without HUD elements and even without status bar numbers and weapon sprites at higher screen sizes.
  * Colorized status bar numbers, HUD texts and blood sprites for certain monsters.
  * Translucency for certain sprites and status bar elements in the Crispy HUD.
@@ -52,26 +56,24 @@ Furthermore, the following optional user-visible and audible features are availa
  * Demo recording and/or playback timers and progress bar.
  * Demo continue, fast-forward and take-over features, handing controls over to the player when demo playback is finished or interrupted.
 
-Most of these features are disabled by default and need to get enabled either in the in-game "Crispness" menu, in the crispy-doom-setup tool or as command line parameters. They are implemented in a way that preserves demo-compatibility with Vanilla Doom and network game compatibility with Chocolate Doom. Furthermore, Crispy Doom's savegames and config files are compatible, though not identical (see the [Compatibility section in the Wiki](https://github.com/fabiangreffrath/crispy-doom/wiki/Compatibility), to Vanilla Doom's. 
+Most of these features are disabled by default and need to get enabled either in the in-game "Crispness" menu, in the doop-setup tool or as command line parameters. They are implemented in a way that preserves demo-compatibility with Vanilla Doom and network game compatibility with Chocolate Doom. Furthermore, Crispy Doom's savegames and config files are compatible, though not identical (see the [Compatibility section in the Wiki](https://github.com/fabiangreffrath/crispy-doom/wiki/Compatibility), to Vanilla Doom's. 
 
-Crispy Doom strives for maximum compatibility with all "limit-removing Vanilla" maps -- but not Boom or ZDoom maps. More specifically, Crispy Doom supports some select advanced features such as [ANIMATED](https://doomwiki.org/wiki/ANIMATED) and [SWITCHES](https://doomwiki.org/wiki/SWITCHES) lumps, MBF sky transfers, SMMU swirling flats and [MUSINFO](https://doomwiki.org/wiki/MUSINFO) -- but neither generalized linedef and sector types nor DECORATE and MAPINFO.
+DOOP strives for maximum compatibility with all "limit-removing Vanilla" maps -- but not Boom or ZDoom maps. More specifically, DOOP supports some select advanced features such as [ANIMATED](https://doomwiki.org/wiki/ANIMATED) and [SWITCHES](https://doomwiki.org/wiki/SWITCHES) lumps, MBF sky transfers, SMMU swirling flats and [MUSINFO](https://doomwiki.org/wiki/MUSINFO) -- but neither generalized linedef and sector types nor DECORATE and MAPINFO.
 
 Many additional less user-visible features have been implemented, e.g. fixed engine limitations and crashes, fixed rendering bugs, fixed harmless game logic bugs, full support for DEHACKED files and lumps in BEX format, additional and improved cheat codes, an improved Automap, and many more! Due to the extra DEHACKED states added from [MBF](https://doomwiki.org/wiki/MBF), Crispy Doom supports [enhancer](https://www.doomworld.com/forum/topic/84859-black-ops-smooth-weapons-dehacked-mod) [mods](https://www.doomworld.com/forum/topic/85991-smoothed-smooth-monsters-for-doom-retro-and-crispy-doom) that can make the gameplay even more pleasing to the eyes. For a detailed list of features and changes please refer to the release notes below.
 
 ## Download
 
-* Windows: [Get binaries of the latest release](https://github.com/fabiangreffrath/crispy-doom/releases/latest), compatible with both x86 and x64 editions.
-* MacOS: Use MacPorts: `sudo port install crispy-doom` or Homebrew: `brew install crispy-doom`.
-* Linux: To install on Ubuntu (“Eoan Ermine” 19.10 and later)/Debian (“Buster” 10 and later) based systems: `sudo apt-get install crispy-doom`
+* Windows: [Get binaries of the latest release](https://github.com/TechWithRiley/doop/releases/latest), compatible with both x86 and x64 editions.
+* ~~MacOS: Use MacPorts: `sudo port install crispy-doom` or Homebrew: `brew install crispy-doom`.~~
+* ~~Linux: To install on Ubuntu (“Eoan Ermine” 19.10 and later)/Debian (“Buster” 10 and later) based systems: `sudo apt-get install crispy-doom`~~
 
 
 The most recent list of changes can be found in the [Changelog](https://github.com/fabiangreffrath/crispy-doom/blob/master/CHANGELOG.md).
 A complete history of changes and releases can be found in the [Wiki](https://github.com/fabiangreffrath/crispy-doom/wiki/Changelog-History) or on the [Releases](https://github.com/fabiangreffrath/crispy-doom/releases) page.
 
-Daily builds of Crispy Doom can be found here:
-http://latest.chocolate-doom.org/
 
-Crispy Doom can play nearly all variants of Doom. If you don't own any, you may download the [Shareware version of Doom](http://cdn.debian.net/debian/pool/non-free/d/doom-wad-shareware/doom-wad-shareware_1.9.fixed.orig.tar.gz), extract it and copy the DOOM1.WAD file into your Crispy Doom directory. Alternatively, you may want to play Crispy Doom with [Freedoom](https://www.chocolate-doom.org/wiki/index.php/Freedoom) and a MegaWAD.
+DOOP can play nearly all variants of DOOM. If you don't own any, you may download the [Shareware version of Doom](http://cdn.debian.net/debian/pool/non-free/d/doom-wad-shareware/doom-wad-shareware_1.9.fixed.orig.tar.gz), extract it and copy the DOOM1.WAD file into your DOOP directory. Alternatively, you may want to play DOOP with [Freedoom](https://www.chocolate-doom.org/wiki/index.php/Freedoom) and a MegaWAD.
 ### Sources
 [![Open Hub](https://www.openhub.net/p/crispy-doom/widgets/project_thin_badge?style=flat&format=gif)](https://www.openhub.net/p/crispy-doom)
 
@@ -82,6 +84,7 @@ or cloned via
 ```
  git clone https://github.com/fabiangreffrath/crispy-doom.git
 ```
+This is also allowed with DOOP (since it's just a Crispy Doom Fork)
 
 
  * Brief instructions to set up a build system on Windows can be found [in the Crispy Doom Wiki](https://github.com/fabiangreffrath/crispy-doom/wiki/Building-on-Windows). A much more detailed guide is provided [in the Chocolate Doom Wiki](https://www.chocolate-doom.org/wiki/index.php/Building_Chocolate_Doom_on_Windows), but applies to Crispy Doom as well for most parts.
@@ -132,4 +135,5 @@ Secret Rabbit Code (libsamplerate) is © 2002-2011 Erik de Castro Lopo and is re
 Libpng is © 1998-2014 Glenn Randers-Pehrson, © 1996-1997 Andreas Dilger, © 1995-1996 Guy Eric Schalnat, Group 42, Inc. and is released under the [libpng license](http://www.libpng.org/pub/png/src/libpng-LICENSE.txt).
 Zlib is © 1995-2013 Jean-loup Gailly and Mark Adler and is released under the [zlib license](http://www.zlib.net/zlib_license.html).
 
-The Crispy Doom icon (as shown at the top of this page) has been contributed by Philip K.
+The Crispy Doom icon has been contributed by Philip K.
+The DOOP icon has been made by me (Riley).
